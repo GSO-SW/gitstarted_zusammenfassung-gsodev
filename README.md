@@ -1,4 +1,4 @@
-## Begriffe definieren und erklären (z.B. repository, branch etc.)
+## Begriffe definieren und erklären (z.B. repository, branch etc.).
 
 - `commit` : 
   - Speichert eine Abbildung aller Dateien in deinen in der Staging-Area,  git commit. 
