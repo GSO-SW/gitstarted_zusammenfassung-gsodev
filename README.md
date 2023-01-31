@@ -1,7 +1,7 @@
 ## Begriffe definieren und erklären (z.B. repository, branch etc.)
 
 - `commit` : 
-  - speichert eine Abbildung aller Dateien in deinen Projektverzeichnis, git commit. 
+  - speichert eine Abbildung aller Dateien in deinen in der Staging-Area, git commit. 
 
 - `Branch` : 
   - sie sind einfach verweise auf eine bestimmten Commit, git Branch name.
