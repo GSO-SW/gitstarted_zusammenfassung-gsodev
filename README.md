@@ -54,22 +54,22 @@
 
 - `Git commit -m ""` : 
   - Wird benutzt um die Datei vom Normalen Bereich in das Repository hinzuzufügen und der Datei eine Nachrichten
-    zu Hinterlassen 
+    zu Hinterlassen.
 
 - `Git branch` :
-  - Benutzt man um einen Nutzer zu erstellen auf dem aktuellen Commit
+  - Benutzt man um einen Nutzer zu erstellen auf dem aktuellen Commit.
 
 - `Git checkout` :
-  - Man wechselt zu einem anderen Branch
+  - Man wechselt zu einem anderen Branch.
 
 - `Git log` :
-  - Zeigt die Historie der ganzen Commits und den Branches
+  - Zeigt die Historie der ganzen Commits und den Branches.
 
 - `Git rebase` :
-  - Man benutzt es um alle Commits, vor dem angegebenen Commit zu setzen 
+  - Man benutzt es um alle Commits, vor dem angegebenen Commit zu setzen.
 
 - `Git merge` :
-  - Die aktuelle Branch Historie wird hinter das aktuelle Commit gepackt
+  - Die aktuelle Branch Historie wird hinter das aktuelle Commit gepackt.
 
 # Entfernte Repositories
 - `git clone` :
