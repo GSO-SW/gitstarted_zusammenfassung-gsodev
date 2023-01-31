@@ -1,4 +1,4 @@
-## Begriffe definieren und erklären (z.B. repository, branch etc.)
+## Begriffe definieren und erklären (z.B. repository, branch etc.).
 
 - `commit` : 
   - speichert eine Abbildung aller Dateien in deinen Projektverzeichnis, git commit. 
