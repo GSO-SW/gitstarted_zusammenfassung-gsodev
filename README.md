@@ -43,7 +43,7 @@
 - `git log` :
   - Im Allgemeinen ist das Git-Protokoll eine Aufzeichnung von Commits.
 
-## Git Befehle für die Arbeit mit lokalen Repositories
+# Git Befehle für die Arbeit mit lokalen Repositories
 
 - `Git init` :
   - Es wird benutzt um einen Ordner in 3 unterschiedlichen Bereichen aufzuteilen, einmal in ein normalen
@@ -71,7 +71,7 @@
 - `Git merge` :
   - Die aktuelle Branch Historie wird hinter das aktuelle Commit gepackt
 
-## Entfernte Repositories
+# Entfernte Repositories
 - `git clone` :
   - wird verwendet, um auf ein bestehendes Repository zu verweisen und einen Klon 
   oder eine Kopie dieses Repositorys in einem anderen verzeichnis zu erstellen.
