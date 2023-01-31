@@ -1,24 +1,24 @@
 ## Begriffe definieren und erklären (z.B. repository, branch etc.)
 
 - `commit` : 
-  - Speichert eine Abbildung aller Dateien in deinen in der Staging-Area, git commit. 
+  - speichert eine Abbildung aller Dateien in deinen in der Staging-Area, git commit. 
 
 - `Branch` : 
-  - Sie sind einfach verweise auf eine bestimmten Commit, git Branch name.
+  - sie sind einfach verweise auf eine bestimmten Commit, git Branch name.
 
 - `repository` :
   - Es ist ein virtueller Speicher deines Projekts. Damit kannst du Versionen deines Codes speichern und bei Bedarf auf sie zugreifen, git init
 
 - `Mergen` :
-  - Wie man die Arbeit, die in verschiedenen Branches steckt, zusammenführen kann, git merege.
+  - wie man die Arbeit, die in verschiedenen Branches steckt, zusammenführen kann, git merege.
 
 - `Rebase` :
-  - Ein zweite weg, um Inhalte aus verschiedene Branches zu kommbinieren. Es ist eine Menge von Commits,"kopiert" sie und packt sie auf etwas anderes drauf, git rebase (C2)--->(C2`)
+  - ein zweite weg, um Inhalte aus verschiedene Branches zu kommbinieren. Es ist eine Menge von Commits,"kopiert" sie und packt sie auf etwas anderes drauf, git rebase (C2)--->(C2`)
 
 - `Head` :
-  - _Ist ein Alias für den Commit, der gerade ausgechecktist.
-  - _Zeigt immer auf den neusten Commit.
-  -_Es ist ein Commit, an den du deinen nächsten Commit hängst.
+  - _ist ein Alias für den Commit, der gerade ausgechecktist.
+  - _zeigt immer auf den neusten Commit.
+  -_es ist ein Commit, an den du deinen nächsten Commit hängst.
 
 - `'*'` :
   - bedeutet, wo wir genau stehen.
@@ -38,7 +38,7 @@
   - Mit dem Befehl git remote wird festgelegt, auf welchen Remote-Endpunkten die Synchronisierungsbefehle arbeiten.
 
 - `git push` :
-  - Wird verwendet, um Inhalte in ein Remote-Repository hochzuladen.
+  - wird verwendet, um Inhalte in ein Remote-Repository hochzuladen.
 
 - `git log` :
   - Im Allgemeinen ist das Git-Protokoll eine Aufzeichnung von Commits.
@@ -73,14 +73,14 @@
 
 # Entfernte Repositories
 - `git clone` :
-  - Wird verwendet, um auf ein bestehendes Repository zu verweisen und einen Klon 
+  - wird verwendet, um auf ein bestehendes Repository zu verweisen und einen Klon 
   oder eine Kopie dieses Repositorys in einem anderen verzeichnis zu erstellen.
 - `git fetch` : 
-  - Wird verwendet, um Commits, Dateien und Verweise aus einem
+  - wird verwendet, um Commits, Dateien und Verweise aus einem
     Remote-Repository in ein lokales Repository herunterzuladen.
 - `git pull` :
-  - Wird verwendet, um Inhalte aus einem Remote-Repository herunterzuladen 
+  - wird verwendet, um Inhalte aus einem Remote-Repository herunterzuladen 
     und sofort das lokale Repository zu aktualisieren (damit der Inhalt übereinstimmt).
 - `git push` :
-  - Wird verwendet, um Inhalte aus einem lokalen Repository in ein Remote-Repository hochzuladen.
+  - wird verwendet, um Inhalte aus einem lokalen Repository in ein Remote-Repository hochzuladen.
 
